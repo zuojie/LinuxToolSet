@@ -9,12 +9,10 @@ ___
 *EXAMPLE*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tree path](http://zuojie.github.io/demo/linux_toolset_tree.png)   
 
-___
-
 ##wc
 *NAME*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wc -- The wc utility displays the number of lines, words, and bytes contained in each input file, or standard input (if no file is specified) to the standard output. it requires flex has been installed when compile.     
 *SYNOPSIS*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wc file1 file2 ...   
 *EXAMPLE*   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tree path](http://zuojie.github.io/demo/linux_toolset_wc.png)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![wc](http://zuojie.github.io/demo/linux_toolset_wc.png)   
