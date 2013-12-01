@@ -16,3 +16,5 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wc file1 file2 ...   
 *EXAMPLE*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![wc](http://zuojie.github.io/demo/linux_toolset_wc.png?0=1)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the difference between my wc and standard wc is because that my wc recognize control cha
+racters as a word too.   
