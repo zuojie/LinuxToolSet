@@ -15,4 +15,4 @@ ___
 *SYNOPSIS*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wc file1 file2 ...   
 *EXAMPLE*   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![wc](http://zuojie.github.io/demo/linux_toolset_tree.png)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![wc](http://zuojie.github.io/demo/linux_toolset_wc.png?0=1)   
